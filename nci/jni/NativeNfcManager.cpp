@@ -64,6 +64,7 @@
 #include "phNxpConfig.h"
 #include "phNxpExtns.h"
 #include "rw_api.h"
+#include "nativehelper/JNIPlatformHelp.h"
 
 using android::base::StringPrintf;
 

@@ -58,6 +58,7 @@
 #include "nfc_brcm_defs.h"
 #include "phNxpExtns.h"
 #include "rw_api.h"
+#include "nativehelper/JNIPlatformHelp.h"
 
 using android::base::StringPrintf;
 #if(NXP_EXTNS == TRUE)
